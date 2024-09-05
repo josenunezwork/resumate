@@ -7,7 +7,7 @@ import certifi
 import json
 
 # API Key and Endpoints
-API_KEY = 'eyJhbGciOiJFZERTQSIsImtpZCI6Ijk4NzQzMTcwLWJiMDUtMDFhMS1lMWFiLTIyMWFjNTU1MDgyMSJ9.eyJhdWQiOiJudW5lenByb2plY3QuY29tIiwiZXhwIjoxNzU3MDI1NTM1LCJpYXQiOjE3MjU0Njg1ODMsImlzcyI6Imh0dHBzOi8vb3BzLmNvcmVzaWduYWwuY29tOjgzMDAvdjEvaWRlbnRpdHkvb2lkYyIsIm5hbWVzcGFjZSI6InJvb3QiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJudW5lenByb2plY3QuY29tIiwic3ViIjoiZmEwYzRjOWMtYzIxYy1mZmRmLWMwYjktNDhhZWQ1YWY5YzE2IiwidXNlcmluZm8iOnsic2NvcGVzIjoiY2RhcGkifX0.zFbuWkCcnSkT0g-cXu3CkG3efZPfsekRxjDaqnbIelD5dl566hg-C58Htmt7hJ0rRKfmY0Y_Nl237JeMo6hwBA'
+API_KEY= ''
 SEARCH_ENDPOINT = 'https://api.coresignal.com/cdapi/v1/linkedin/job/search/filter'
 COLLECT_ENDPOINT = 'https://api.coresignal.com/cdapi/v1/linkedin/job/collect/'
 

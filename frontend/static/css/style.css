@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+#app {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#resumeContainer {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+#resumeContainer h1, #resumeContainer h2, #resumeContainer h3 {
+    color: #333;
+    margin-top: 20px;
+}
+
+#resumeContainer ul {
+    padding-left: 20px;
+}
+
+#resumeContainer p {
+    margin-bottom: 10px;
+}
+
+.resume-container {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.resume-container h1, .resume-container h2, .resume-container h3 {
+    color: #333;
+    margin-top: 20px;
+}
+
+.resume-container ul {
+    padding-left: 20px;
+}
+
+.resume-container p {
+    margin-bottom: 10px;
+}
+
+.resume-container h1 {
+    color: #2c3e50;
+    border-bottom: 2px solid #34db82;
+    padding-bottom: 10px;
+}
+
+.resume-container h2 {
+    color: #34495e;
+    margin-top: 20px;
+}
+
+.resume-container a {
+    color: #db7a344a;
+    text-decoration: none;
+}
+
+.resume-container a:hover {
+    text-decoration: underline;
+}
